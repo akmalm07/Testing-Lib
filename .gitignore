@@ -30,6 +30,9 @@ ipch/
 *.opensdf
 *.sdf
 *.cachefile
+*.vcxproj
+*.users
+*.filters
 
 # Visual Studio profiler
 *.psess
