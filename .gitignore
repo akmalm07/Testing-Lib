@@ -33,6 +33,7 @@ ipch/
 *.vcxproj
 *.users
 *.filters
+*.sln
 
 # Visual Studio profiler
 *.psess
